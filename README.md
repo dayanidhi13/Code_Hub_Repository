@@ -159,18 +159,23 @@ Controllers and servlets play a crucial role in handling user requests and inter
 Here are some screenshots of the GUI:
 
 1. Login page
-  
+   ![Screenshot (82)](https://github.com/dayanidhi13/Code_Hub_Repository/assets/145747015/86658016-d628-4db5-9270-270dbd5386b2)
 
 2. Register page
-   
+   ![Registration](https://github.com/dayanidhi13/Code_Hub_Repository/assets/145747015/ee24e938-7e41-49b9-914c-9603ebca3db1)
 
 3. Dashboard
-  
+  ![Screenshot (83)](https://github.com/dayanidhi13/Code_Hub_Repository/assets/145747015/83170894-4197-4a51-94d1-de786efaf9cb)
+
 4. View Task list
+
+![Screenshot (85)](https://github.com/dayanidhi13/Code_Hub_Repository/assets/145747015/f7b98134-c604-4df8-a328-9f40b8f9e243)
+
    
 
-5. Create task form
-   
+6. Create task form
+   ![Screenshot (84)](https://github.com/dayanidhi13/Code_Hub_Repository/assets/145747015/e955cf1f-916d-404d-82c5-19a26860c939)
+
 
 
 
